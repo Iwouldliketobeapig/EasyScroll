@@ -1,19 +1,17 @@
 {
   "name": "easyscrolldt",
-  "version": "1.0.3",
-  "dependencies": {
-    "vue": "^2.4.2"
-  },
+  "version": "1.0.5",
+  "dependencies": {},
   "author": {
-    "name": "GarveyZuo"
+    "name": "dutao"
   },
   "bugs": {
-    "url": "https://github.com/GarveyZuo/EasyScroll/issues"
+    "url": "https://github.com/Iwouldliketobeapig/EasyScrollDt/issues"
   },
   "description": "this is a tiny  scroll bar plugin for vue2.0",
   "devDependencies": {},
   "directories": {},
-  "homepage": "https://github.com/GarveyZuo/EasyScroll#readme",
+  "homepage": "https://github.com/Iwouldliketobeapig/EasyScrollDt#readme",
   "keywords": [
     "scroll",
     "vue"
@@ -21,6 +19,10 @@
   "license": "ISC",
   "main": "index.js",
   "maintainers": [
+    {
+      "name": "dutao",
+      "emalil": "1135885474@qq.com"
+    },
     {
       "name": "garveyzuo",
       "email": "1285102881@qq.com"
@@ -30,7 +32,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GarveyZuo/EasyScroll.git"
+    "url": "git+https://github.com/Iwouldliketobeapig/EasyScrollDt"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
