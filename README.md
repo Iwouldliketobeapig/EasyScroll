@@ -1,8 +1,10 @@
-# easyscroll
+# easyscrolldt
 
 `因为原easyscroll在调试中会有debugger，所以我fork了一个分支并发布了这个版本使用与项目中，如有异议请联系作者`
 
 ### 这是一个基于vue重写滚动条的组件
+
+安装: npm i easyscrolldt --save
 
 ### demo
 
